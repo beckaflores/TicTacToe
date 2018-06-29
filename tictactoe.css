@@ -1,14 +1,17 @@
+body {
+  background: lightcoral
+}
+
 td {
-    border: 1px solid blue;
+    border: 1px solid black;
     width: 200px;
     height: 200px;
   }
   
   td:hover {
-    background: orange;
+    background: lightseagreen;
   }
   
   table {
-    border: 1px solid green;
+    border: 1px solid red;
   }
- 
